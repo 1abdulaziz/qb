@@ -1,0 +1,6 @@
+qb.settings_form:
+  title: 'qb'
+  description: 'Configure qb.'
+  parent: system.admin_config_system
+  route_name: qb.settings_form
+  weight: 10

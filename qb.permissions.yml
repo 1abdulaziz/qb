@@ -1,0 +1,4 @@
+administer qb configuration:
+  title: 'Administer qb configuration'
+  description: 'Optional description.'
+  restrict access: true

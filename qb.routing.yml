@@ -1,0 +1,7 @@
+qb.settings_form:
+  path: '/admin/config/system/qb'
+  defaults:
+    _title: 'qb settings'
+    _form: 'Drupal\qb\Form\SettingsForm'
+  requirements:
+    _permission: 'administer qb configuration'

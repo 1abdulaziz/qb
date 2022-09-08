@@ -1,0 +1,8 @@
+# Schema for the configuration files of the qb module.
+qb.settings:
+  type: config_object
+  label: 'qb settings'
+  mapping:
+    example:
+      type: string
+      label: 'Example'
